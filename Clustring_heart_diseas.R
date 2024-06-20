@@ -1,12 +1,4 @@
 ################################################################################
-##Team Names##
-##############
-#1-Ammar yasser farouk abuelnaga
-#2-Amr ahmed mahmoud metwally
-#3-Omar ibrahim ali abdelgani
-#4-Ali ahmed taha ahmed
-#5-Ahmed salama ibrahim salama
-################################################################################
 ##necessary libraries##
 #######################
 library(dplyr)
